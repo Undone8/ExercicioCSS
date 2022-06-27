@@ -1,0 +1,21 @@
+body{
+    background-color: #577590;
+}
+
+.dia{
+    color: #201f1b;
+    border: #201f1b solid;
+    background-color: #ffd670;
+}
+.semana{
+    color: #201f1b;
+}
+li{
+    color: #201f1b;
+}
+.top{
+    color: #00c49a;
+}
+h1{
+    color: #212530;
+}

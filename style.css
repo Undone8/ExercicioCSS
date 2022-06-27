@@ -1,0 +1,24 @@
+h1{
+    color: white;
+    font-family: monospace;
+    border: #dec0f1 solid 4px;
+}
+ul{
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+body{
+    background-color: #000000;
+    background-image: url(Loading.png);
+    background-size: cover;
+}
+.Filmes{
+    color: #b79ced;
+}
+.Filme{
+    color: #957fef;
+}
+#titulo{
+    color: #7161ef;
+}
